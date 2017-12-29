@@ -4,3 +4,6 @@ img, video, audio, iframe, table, form {
   max-width: 100%; /* FF, Safari, Chrome */
 
 /*LAYOUT STYLES*/
+.row {
+  margin-bottom: 20px;
+}
